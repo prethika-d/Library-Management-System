@@ -1,6 +1,3 @@
-# Student Registration Module
-# Version 2 – Daily Updates Tracked Using Git
-
 class Student:
     def __init__(self, student_id, name, department, year):
         self.student_id = student_id
