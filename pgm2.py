@@ -86,3 +86,5 @@ class StudentRegistrationSystem:
 if __name__ == "__main__":
     system = StudentRegistrationSystem()
     system.menu()
+print("Student Registration System")
+print("Student Registration Portal")
